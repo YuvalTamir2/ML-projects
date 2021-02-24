@@ -8,7 +8,7 @@ import numpy as np
 import cv2
 import utils
 
-path = r'C:/Users/tamiryuv/Desktop/Play/OPENCV/Doc_Scanner/test2.jpeg'
+path = r'test2.jpeg'
 
 image = cv2.imread(path)
 im1 = cv2.resize(image,(600,600))
