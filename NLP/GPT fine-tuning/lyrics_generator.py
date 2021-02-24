@@ -8,7 +8,7 @@ import transformers
 import pandas as pd
 import random
 
-project_path = r'.'
+project_path = r'./artists/'
 
 ###new method - pretrained NLP models, and fine-tuning them : 
 
