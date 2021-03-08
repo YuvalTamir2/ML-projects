@@ -1,5 +1,5 @@
 # ML-projects
-Some projects in the ML field, mainly for educational purposes.
+Some projects in the ML field, mainly for self-learning purposes.
 
 
 # Computer Vision
