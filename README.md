@@ -2,13 +2,12 @@
 some projects in the ML field, mainly for educational purposes.
 
 
-# Computer Vision:
+# Computer Vision
   
    <h2> DocScanner:</h2><br>
     🔵 link to dir - https://github.com/YuvalTamir2/ML-projects/tree/main/Computer%20Vision/DocScanner <br>
     a document scanner, example result: <br>
     <img src="https://github.com/YuvalTamir2/ML-projects/blob/main/Computer%20Vision/DocScanner/results/Result_1.jpg" width="850" height="531" >
-    <br>
     
    <h2>OCR-engine:</h2><br>
     🔵 link to dir - https://github.com/YuvalTamir2/ML-projects/tree/main/Computer%20Vision/OCR%20engine<br>
@@ -16,7 +15,7 @@ some projects in the ML field, mainly for educational purposes.
     (the prediction is the header of each image)<br>
       <img src="https://github.com/YuvalTamir2/ML-projects/blob/main/Computer%20Vision/OCR%20engine/example_results.png">
     
- # NLP:
+ # NLP
  
    <h2>Songs Lyrics Generator:</h2><br>
     🔵 link to dir - https://github.com/YuvalTamir2/ML-projects/tree/main/NLP/GPT%20fine-tuning<br>
