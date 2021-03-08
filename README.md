@@ -4,11 +4,11 @@ some projects in the ML field, mainly for educational purposes.
 
 # Computer Vision:
   
-  * DocScanner:
-    link to dir - 
-    a document scanner, example result:
+  * DocScanner:<br>
+    link to dir - https://github.com/YuvalTamir2/ML-projects/tree/main/Computer%20Vision/DocScanner <br>
+    a document scanner, example result: <br>
     <img src="https://github.com/YuvalTamir2/ML-projects/blob/main/Computer%20Vision/DocScanner/results/Result_1.jpg" >
-    
+    <br><br>
    * OCR-engine:
     link to dir - 
     an OCR engine, trained on captcha images data. example result:
