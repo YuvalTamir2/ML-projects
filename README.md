@@ -18,10 +18,10 @@ some projects in the ML field, mainly for educational purposes.
     
  # NLP:
  
-   * Songs Lyrics Generator:
-    link to dir - 
-    a song lyric generator, capable to train on your favourite artists!
-    example result:
+   * Songs Lyrics Generator:<br>
+    link to dir - https://github.com/YuvalTamir2/ML-projects/tree/main/NLP/GPT%20fine-tuning<br>
+    a song lyric generator, capable to train on your favourite artists!<br>
+    example result:<br>
     
     1. NAS (Rapper) after 5 EPOCHES: (100 words as max len):
       "new york new yorkers will catch us in action when the pistol breaks the law, and now we have to wait, nicked, I take a breath in front the crowd's full force with numbers
@@ -36,8 +36,8 @@ some projects in the ML field, mainly for educational purposes.
  
    
     
-   * Heb-Eng Seq2Seq translation:
-    link to dir - 
+   * Heb-Eng Seq2Seq translation:<br>
+    link to dir - https://github.com/YuvalTamir2/ML-projects/tree/main/NLP/Seq2Seq <br>
     a seq2seq neural network, can be trained on any language to any language
     
   
