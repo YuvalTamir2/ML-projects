@@ -10,7 +10,7 @@ some projects in the ML field, mainly for educational purposes.
     <img src="https://github.com/YuvalTamir2/ML-projects/blob/main/Computer%20Vision/DocScanner/results/Result_1.jpg" >
     <br>
     
-   * OCR-engine:<br>
+   <h2>OCR-engine:</h2><br>
     link to dir - https://github.com/YuvalTamir2/ML-projects/tree/main/Computer%20Vision/OCR%20engine<br>
     an OCR engine, trained on captcha images data. example result:<br>
     (the prediction is the header of each image)<br>
@@ -18,7 +18,7 @@ some projects in the ML field, mainly for educational purposes.
     
  # NLP:
  
-   * Songs Lyrics Generator:<br>
+   <h2>Songs Lyrics Generator:</h2><br>
     link to dir - https://github.com/YuvalTamir2/ML-projects/tree/main/NLP/GPT%20fine-tuning<br>
     a song lyric generator, capable to train on your favourite artists!<br>
     example result:<br>
@@ -34,9 +34,7 @@ some projects in the ML field, mainly for educational purposes.
       I knew somebody else had a garden know I get by alone I'll be anywhere I do when the need arises know it when it hurts, shake"
 
  
-   
-    
-   * Heb-Eng Seq2Seq translation:<br>
+   <h2>Heb-Eng Seq2Seq translation:</h2><br>
     link to dir - https://github.com/YuvalTamir2/ML-projects/tree/main/NLP/Seq2Seq <br>
     a seq2seq neural network, can be trained on any language to any language
     
