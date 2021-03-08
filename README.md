@@ -7,7 +7,7 @@ some projects in the ML field, mainly for educational purposes.
    <h2> DocScanner:</h2><br>
     🔵 link to dir - https://github.com/YuvalTamir2/ML-projects/tree/main/Computer%20Vision/DocScanner <br>
     a document scanner, example result: <br>
-    <img src="https://github.com/YuvalTamir2/ML-projects/blob/main/Computer%20Vision/DocScanner/results/Result_1.jpg" width="600" height="500" >
+    <img src="https://github.com/YuvalTamir2/ML-projects/blob/main/Computer%20Vision/DocScanner/results/Result_1.jpg" width="800" height="900" >
     <br>
     
    <h2>OCR-engine:</h2><br>
