@@ -5,7 +5,7 @@ Some projects in the ML field, mainly for educational purposes.
 # Computer Vision
   
    <h2> DocScanner:</h2><br>
-    🔵 [Link to dir] (https://github.com/YuvalTamir2/ML-projects/tree/main/Computer%20Vision/DocScanner) <br>
+    🔵 [Link to dir](https://github.com/YuvalTamir2/ML-projects/tree/main/Computer%20Vision/DocScanner) <br>
     🟠 A document scanner<br>
     🟣 Example result: <br>
     <img src="https://github.com/YuvalTamir2/ML-projects/blob/main/Computer%20Vision/DocScanner/results/Result_1.jpg" width="850" height="531" >
