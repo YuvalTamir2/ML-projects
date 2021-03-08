@@ -22,7 +22,9 @@ some projects in the ML field, mainly for educational purposes.
     🔵 link to dir - https://github.com/YuvalTamir2/ML-projects/tree/main/NLP/GPT%20fine-tuning<br>
     a song lyric generator, capable to train on your favourite artists!<br>
     example result:<br>
-    
+    <div class="text-white bg-gray-dark mb-2">
+
+
     1. NAS (Rapper) after 5 EPOCHES: (100 words as max len):
       "new york new yorkers will catch us in action when the pistol breaks the law, and now we have to wait, nicked, I take a breath in front the crowd's full force with numbers
       like the *!@#$*! that you feed your wives and girlfriends don, she'll never get high and stay, but I don't see her sniffle, I react with surprise to the bass of bass 
@@ -32,7 +34,7 @@ some projects in the ML field, mainly for educational purposes.
       "i wanna get high? I'm on a little time to laugh know I twist, you'll do anybody's work you twist a word, twist it so I twistieve it, 
       if anybody told anybody else I nearly drowned, baby you still need me I shake hands now and sing, I get by alone you know me when my love is away you told the girl 
       I knew somebody else had a garden know I get by alone I'll be anywhere I do when the need arises know it when it hurts, shake"
-
+</div>
  
    <h2>Heb-Eng Seq2Seq translation:</h2><br>
     🔵 link to dir - https://github.com/YuvalTamir2/ML-projects/tree/main/NLP/Seq2Seq <br>
