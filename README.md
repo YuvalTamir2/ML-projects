@@ -8,7 +8,7 @@ Some projects in the ML field, mainly for self-learning purposes.
     🔵 Link to dir - https://github.com/YuvalTamir2/ML-projects/tree/main/Computer%20Vision/DocScanner <br>
     🟠 A document scanner<br>
     🟣 Example result: <br>
-    <img src="https://github.com/YuvalTamir2/ML-projects/blob/main/Computer%20Vision/DocScanner/results/Result_1.jpg" width="850" height="531" >
+    <img src="https://github.com/YuvalTamir2/ML-projects/blob/main/Computer%20Vision/DocScanner/results/Result_1.jpg" width="900" height="562" >
     
    <h2>OCR-engine:</h2><br>
     🔵 Link to dir - https://github.com/YuvalTamir2/ML-projects/tree/main/Computer%20Vision/OCR%20engine<br>
