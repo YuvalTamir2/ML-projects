@@ -18,7 +18,7 @@ Some projects in the ML field, mainly for self-learning purposes.
       <img src="https://github.com/YuvalTamir2/ML-projects/blob/main/Computer%20Vision/OCR%20engine/example_results.png">
     
  # NLP
-   <h2>Heb-Eng Seq2Seq translation:</h2><br>
+   <h2>Hebrew-English Seq2Seq translation:</h2><br>
     🔵 Link to dir - https://github.com/YuvalTamir2/ML-projects/tree/main/NLP/Seq2Seq <br>
     🟠 A seq2seq neural network, can be trained on any language to any language
     
