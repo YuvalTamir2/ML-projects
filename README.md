@@ -7,7 +7,7 @@ Some projects in the ML field, mainly for self-learning purposes.
    <h2> DocScanner:</h2><br>
     🔵 Link to dir - https://github.com/YuvalTamir2/ML-projects/tree/main/Computer%20Vision/DocScanner <br>
     🟠 A document scanner<br>
-    🟣 Example result: <br>
+    🟣 Example result:(left - input, right - output) <br>
     <img src="https://github.com/YuvalTamir2/ML-projects/blob/main/Computer%20Vision/DocScanner/results/Result_1.jpg" width="1000" height="625" >
     
    <h2>OCR-engine:</h2><br>
@@ -16,6 +16,13 @@ Some projects in the ML field, mainly for self-learning purposes.
     🟣 Example result:<br>
     (the prediction is the header of each image)<br>
       <img src="https://github.com/YuvalTamir2/ML-projects/blob/main/Computer%20Vision/OCR%20engine/example_results.png">
+      
+   <h2>Face Detection and Recognition:</h2><br>
+    🔵 Link to dir - https://github.com/YuvalTamir2/ML-projects/tree/main/Computer%20Vision/OCR%20engine<br>
+    🟠 A Face detection + recognition engine. <br>
+    🟣 Example result:<br>
+    ![zoom_0 (online-video-cutter com) (1)](https://user-images.githubusercontent.com/72014577/114545191-57490d00-9c64-11eb-80ec-f5e8954066f9.gif)
+     <br>
     
  # NLP
    <h2>Hebrew-English Seq2Seq translation:</h2><br>
