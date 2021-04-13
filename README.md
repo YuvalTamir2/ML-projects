@@ -20,9 +20,10 @@ Some projects in the ML field, mainly for self-learning purposes.
    <h2>Face Detection and Recognition:</h2><br>
     🔵 Link to dir - https://github.com/YuvalTamir2/ML-projects/tree/main/Computer%20Vision/OCR%20engine<br>
     🟠 A Face detection + recognition engine. <br>
-    🟣 Example result:<br>
-    ![zoom_0 (online-video-cutter com) (1)](https://user-images.githubusercontent.com/72014577/114545191-57490d00-9c64-11eb-80ec-f5e8954066f9.gif)
-     <br>
+    🟣 Example result: <br>
+    ![zoom_0 (online-video-cutter com) (1)](https://user-images.githubusercontent.com/72014577/114545471-b3139600-9c64-11eb-8a8d-f7ce5025deb0.gif)
+
+     
     
  # NLP
    <h2>Hebrew-English Seq2Seq translation:</h2><br>
