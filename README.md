@@ -18,10 +18,11 @@ Some projects in the ML field, mainly for self-learning purposes.
       <img src="https://github.com/YuvalTamir2/ML-projects/blob/main/Computer%20Vision/OCR%20engine/example_results.png">
       
    <h2>Face Detection and Recognition:</h2><br>
-    🔵 Link to dir - https://github.com/YuvalTamir2/ML-projects/tree/main/Computer%20Vision/OCR%20engine<br>
+    🔵 Link to dir - https://github.com/YuvalTamir2/ML-projects/tree/main/Computer%20Vision/Face%20Recognition<br>
     🟠 A Face detection + recognition engine. <br>
     🟣 Example result: <br>
-    ![zoom_0 (online-video-cutter com) (1)](https://user-images.githubusercontent.com/72014577/114545471-b3139600-9c64-11eb-8a8d-f7ce5025deb0.gif)
+![zoom_0 (online-video-cutter com) (1)](https://user-images.githubusercontent.com/72014577/114545759-038af380-9c65-11eb-9020-63fc7738247c.gif)
+
 
      
     
