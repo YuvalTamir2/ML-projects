@@ -68,9 +68,9 @@ class FaceID(object):
         cap = cv2.VideoCapture(0) 
 
         while True:
-            ret, frame = cap.read()
-            if not ret:
-                print("fail to grab frame, try again")
+            booli, frame = cap.read()
+            if not booli:
+                print("camera problems..")
                 break
                 
             #img = Image.fromarray(frame)
@@ -98,7 +98,7 @@ class FaceID(object):
                         
                         frame = cv2.rectangle(frame, (box[0],box[1]) , (box[2],box[3]), (255,0,0), 2)
         
-            cv2.imshow("IMG", frame)
+            cv2.imshow("Output", frame)
                 
             
             k = cv2.waitKey(1)
