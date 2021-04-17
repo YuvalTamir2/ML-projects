@@ -88,9 +88,9 @@ class FaceID(object):
                         for idx, emb_db in enumerate(embeds):
                             dist = torch.dist(emb, emb_db[0]).item()
                             dist_list.append(dist)
-                            min_dist = min(dist_list) # get minumum dist value
-                            min_dist_idx = dist_list.index(min_dist) # get minumum dist index
-                            name = names[min_dist_idx] # get name corrosponding to minimum dist
+                        min_dist = min(dist_list) # get minumum dist value
+                        min_dist_idx = dist_list.index(min_dist) # get minumum dist index
+                        name = names[min_dist_idx] # get name corespondes to min_dist value
                         box = boxes[i] 
                         
                         if min_dist<1:
