@@ -1,7 +1,7 @@
 # Machine-Learning-Projects
  **A selection of my projects in the ML field, mainly for self-learning purposes.**
  
-# Computer Vision
+# Computer Vision Projects:
   
    <h2> DocScanner:</h2><br>
     🔵 Link to dir - https://github.com/YuvalTamir2/ML-projects/tree/main/Computer%20Vision/DocScanner <br>
@@ -22,10 +22,10 @@
     🟣 Example result: <br>
    <img src="https://user-images.githubusercontent.com/72014577/115142864-a5875300-a04c-11eb-8e8b-05bdfbe539c8.gif" width="600" height="375" />
     
- # NLP
+ # NLP Projects:
    <h2>Hebrew-English Seq2Seq translation:</h2><br>
     🔵 Link to dir - https://github.com/YuvalTamir2/ML-projects/tree/main/NLP/Seq2Seq <br>
-    🟠 A seq2seq neural network, can be trained on any language to any language
+    🟠 A seq2seq neural network, which can be trained on any language to any language
     
    <h2>Songs Lyrics Generator:</h2><br>
     🔵 Link to dir - https://github.com/YuvalTamir2/ML-projects/tree/main/NLP/GPT%20fine-tuning<br>
