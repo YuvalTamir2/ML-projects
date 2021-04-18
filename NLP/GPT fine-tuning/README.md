@@ -1,4 +1,4 @@
-# Songs Lyrics Generator Project
+# Songs Lyrics Generator 
 A lyrics generator, with the chosen artist's unique style. 
 the data for training is simply the chosen artist's favorite songs.
 
