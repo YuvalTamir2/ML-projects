@@ -20,7 +20,7 @@
     🔵 Link to dir - https://github.com/YuvalTamir2/ML-projects/tree/main/Computer%20Vision/Face%20Recognition<br>
     🟠 A Face detection + recognition engine. <br>
     🟣 Example result: <br>
-   <img src="https://user-images.githubusercontent.com/72014577/115142864-a5875300-a04c-11eb-8e8b-05bdfbe539c8.gif" width="600" height="375" />
+   <img src="https://user-images.githubusercontent.com/72014577/115142864-a5875300-a04c-11eb-8e8b-05bdfbe539c8.gif"/>
     
  # NLP Projects:
    <h2>Hebrew-English Seq2Seq translation:</h2><br>
