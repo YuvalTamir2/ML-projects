@@ -4,7 +4,7 @@ the data for training is simply the chosen artist's favorite songs.
 
 *Note:* capable to train on your favourite artists!<br>
 
-🟣 Example results:<br>
+🟣 **Example results:**<br>
 
     1. NAS (Rapper) after 5 EPOCHES: (100 words as max len):
       "new york new yorkers will catch us in action when the pistol breaks the law, and now we have to wait, nicked, I take a breath in front the crowd's full force with 
@@ -18,4 +18,4 @@ the data for training is simply the chosen artist's favorite songs.
 
 
 
-TODO: enable GPU training. pack the model to modules for more dynamic usage.
+**My Next TODO:** enable GPU training. pack the model to modules for more dynamic usage.
