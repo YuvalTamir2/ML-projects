@@ -15,13 +15,13 @@ Some projects in the ML field, mainly for self-learning purposes.
     🟠 An OCR engine, trained on captcha images data. <br>
     🟣 Example result:<br>
     (the prediction is the header of each image)<br>
-      <img src="https://github.com/YuvalTamir2/ML-projects/blob/main/Computer%20Vision/OCR%20engine/example_results_ocr.jpg">
+      <img src="https://github.com/YuvalTamir2/ML-projects/blob/main/Computer%20Vision/OCR%20engine/example_results_ocr.jpg" width="800" height="800">
       
    <h2>Face Detection and Recognition:</h2><br>
     🔵 Link to dir - https://github.com/YuvalTamir2/ML-projects/tree/main/Computer%20Vision/Face%20Recognition<br>
     🟠 A Face detection + recognition engine. <br>
     🟣 Example result: <br>
-   <img src="https://user-images.githubusercontent.com/72014577/115142864-a5875300-a04c-11eb-8e8b-05bdfbe539c8.gif" width="600" height="600" />
+   <img src="https://user-images.githubusercontent.com/72014577/115142864-a5875300-a04c-11eb-8e8b-05bdfbe539c8.gif" width="600" height="375" />
     
  # NLP
    <h2>Hebrew-English Seq2Seq translation:</h2><br>
