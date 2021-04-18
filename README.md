@@ -1,7 +1,6 @@
-# ML-projects
-Some projects in the ML field, mainly for self-learning purposes.
-
-
+# Machine-Learning-Projects
+ **A selection of my projects in the ML field, mainly for self-learning purposes.**
+ 
 # Computer Vision
   
    <h2> DocScanner:</h2><br>
