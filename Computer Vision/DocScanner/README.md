@@ -9,5 +9,5 @@ In this project I implemented a program that takes an image of a document as inp
    ### 🟣 Example results:    <br>
     * **scanning a handwritten document:** 
      <img src="https://github.com/YuvalTamir2/ML-projects/blob/main/Computer%20Vision/DocScanner/results/DocScanner_result1.jpg" width="1000" height="625" >  <br>
-     * **scanning a printed document:** 
+    * **scanning a printed document:** 
      <img src="https://github.com/YuvalTamir2/ML-projects/blob/main/Computer%20Vision/DocScanner/results/DocScanner_result2.jpg" width="1000" height="625" > 
