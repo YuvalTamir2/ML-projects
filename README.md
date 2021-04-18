@@ -21,10 +21,8 @@ Some projects in the ML field, mainly for self-learning purposes.
     🔵 Link to dir - https://github.com/YuvalTamir2/ML-projects/tree/main/Computer%20Vision/Face%20Recognition<br>
     🟠 A Face detection + recognition engine. <br>
     🟣 Example result: <br>
-![zoom_0 (online-video-cutter com) (1)](https://user-images.githubusercontent.com/72014577/114545759-038af380-9c65-11eb-9020-63fc7738247c.gif)
+    ![faceDetectionGif](https://user-images.githubusercontent.com/72014577/115142864-a5875300-a04c-11eb-8e8b-05bdfbe539c8.gif)
 
-
-     
     
  # NLP
    <h2>Hebrew-English Seq2Seq translation:</h2><br>
