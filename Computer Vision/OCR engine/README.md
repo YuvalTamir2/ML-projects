@@ -6,5 +6,5 @@ This Project was inspired by the amazing  _Abhishek Thakur_.
 
 **My Next TODO:**  try to use a resnet as CNN backbone, add "device" to enable GPU training.
  ### 🟣 Example results:    <br>
-    <img src="https://github.com/YuvalTamir2/ML-projects/blob/main/Computer%20Vision/OCR%20engine/example_results_ocr.jpg" width="1000" height="625">  <br>
+      * <img src="https://github.com/YuvalTamir2/ML-projects/blob/main/Computer%20Vision/OCR%20engine/example_results_ocr.jpg" width="1000" height="625">  <br>
 
