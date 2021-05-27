@@ -40,9 +40,7 @@
       I react with surprise to the bass of bass blows, she kicks, she breaks up my rhythm and breaks the chains of families she's born together with her, she"
       
     2. BEATLES after 5 EPOCHES: (100 words as max len):
-      "i wanna get high? I'm on a little time to laugh know I twist, you'll do anybody's work you twist a word, twist it so I twistieve it, 
-      if anybody told anybody else I nearly drowned, baby you still need me I shake hands now and sing, I get by alone you know me when my love is away you told the girl 
-      I knew somebody else had a garden know I get by alone I'll be anywhere I do when the need arises know it when it hurts, shake"
+      "I you know it's not your answer you need help, honey sat in a little help, baby, baby, get by on and save, shake a fuse, I lit the little firesend a garden I know it            happens when my time is around, ahm? ah't she your ears know when you turn up, I nearly had a garden, shake a little closer still you still want someone elsem? you'll do        you a lot more work on and twist it a twist your arm, honey"
 </div>
  
   
